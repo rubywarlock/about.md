@@ -59,5 +59,6 @@ Minitest это самый необходимый набор для тестир
 стек: Ruby on Rails, MongoDB, Sidekiq, ActiveInteraction(что-то типа dry-rb, только лучше), Gitlab CI, Pundit, Minitest, Docker.
 
 #### SFXDX.
-Backend Ruby on Rails. Создание и поддержка плагинов для redmine.  
+Ruby on Rails, Redmine.  
+Создание и поддержка плагинов для.  
 стек: Ruby on Rails, PostgreSQL, Sidekiq, Gitlab / CI, Minitest, rvm, Redmine, Docker.
