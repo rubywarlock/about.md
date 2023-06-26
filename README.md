@@ -18,7 +18,7 @@ Minitest это самый необходимый набор для тестир
 ✪ Docker / Docker-Compose  
 ✪ Sidekiq / ActiveJob / Sidekiq-Scheduler / Cron  
 ✪ ActiveAdmin  
-✪ Devise
+✪ Devise  
 ✪ GraphQL / RESTful  
 ✪ Nokogiri / Parsing  
 ✪ Git / Github / GitLab / CI DI / Capistrano / Mina  
