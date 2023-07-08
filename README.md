@@ -22,8 +22,7 @@ Minitest это самый необходимый набор для тестир
 
 Интересен Go.  
 Eсть простая программа написал в качестве изучения
-которая сравнивает элементы в массивов и выводит разницу: https://github.com/rubywarlock/Go-diff
-Планирую туда добавить возможность проходить многомерный массив.
+которая сравнивает элементы в массивов и выводит разницу: https://github.com/rubywarlock/Go-diff  
 
 #### Основной стек Backend:
 ✪ Ruby / Ruby on Rails  
@@ -31,23 +30,22 @@ Eсть простая программа написал в качестве и�
 ✪ Kafka  
 ✪ Docker / Docker-Compose  
 ✪ Sidekiq / ActiveJob / Sidekiq-Scheduler / Cron  
-✪ ActiveAdmin  
+✪ Dry-rb / ActiveInteractions  
 ✪ Devise  
 ✪ GraphQL / RESTful  
-✪ Nokogiri / Parsing  
-✪ Git / Github / GitLab / CI DI / Capistrano / Mina  
-✪ Heroku / ssh / Puma / Unicorn / Nginx  
+✪ Nokogiri  
 ✪ RVM / Rbenv  
 ✪ Minitest / RSpec  
-✪ MongoDB / NoSQL  
-✪ MySQL / PostgreSQL  
+✪ MongoDB / MySQL / PostgreSQL  
+
+#### Опыт в других языках:  
+✪ Java / Kotlin  
+✪ Go  
 
 #### Опыт во frontend:
-✪ html5 / html / haml / slim / pug  
+✪ html5 / html / haml / slim  
 ✪ css / scss / sass / bootstrap  
-✪ Vue.js (не большой опыт)  
-✪ Angular (не большой опыт)  
-✪ JavaScript / TypeScript  
+✪ Vue.js / Angular / JavaScript (не большой опыт)  
 
 #### Deploy stack:
 ✪ Capistrano  
